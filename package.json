@@ -21,7 +21,7 @@
     "@types/node": "22.9.0",
     "@types/react": "18.3.12",
     "daisyui": "^4.12.20",
-    "eslint": "^8",
+    "eslint": "^9",
     "eslint-config-next": "15.0.4",
     "html5-qrcode": "^2.3.8",
     "postcss": "^8.4.49",
