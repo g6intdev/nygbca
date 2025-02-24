@@ -18,7 +18,7 @@
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.16",
     "@tsconfig/next": "^2.0.3",
-    "@types/node": "22.13.0",
+    "@types/node": "22.13.5",
     "@types/react": "19.0.10",
     "daisyui": "^4.12.23",
     "eslint": "^9.20.1",
