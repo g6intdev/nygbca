@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@prisma/client": "^6.8.2",
-    "autoprefixer": "^10.4.20",
+    "autoprefixer": "^10.4.21",
     "next": "15.3.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
