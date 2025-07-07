@@ -20,7 +20,7 @@
     "@tsconfig/next": "^2.0.3",
     "@types/node": "22.15.29",
     "@types/react": "19.0.10",
-    "daisyui": "^4.12.23",
+    "daisyui": "^5.0.46",
     "eslint": "^9.28.0",
     "eslint-config-next": "^15.1.7",
     "eslint-plugin-next": "^0.0.0",
